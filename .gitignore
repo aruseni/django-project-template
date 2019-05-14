@@ -1,0 +1,5 @@
+__pycache__/
+
+# Django
+
+local_settings.py
